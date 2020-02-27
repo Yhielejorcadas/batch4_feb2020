@@ -69,3 +69,11 @@ Augmented Reality
 =======
 - Why Tor?
 >>>>>>> parent of 939f006... Update TASKS.txt
+TASK 6 Loops and functions (FEB 20, 2020)
+- Create a calculator with PHP script which uses only add() and subtract() function. The calculator must be able to add, subtract, multiply, divide and find the power of a number.
+
+
+TASK 7 Get and Post (FEB 20, 2020)
+- Create a php script which sends 2 numbers and selects for a specific function of your calculator and process the result in the next page.
+- 2 php files (calculator.php, process.php)
+- You can use GET or POST methods
