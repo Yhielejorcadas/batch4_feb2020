@@ -3,7 +3,10 @@ TASK 1 Github (FEB 11, 2020)
 - Verify your github account to your email
 - Clone batch4_feb2020 repository
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of 939f006... Update TASKS.txt
 
 
 TASK 2 Reporting and presentation (FEB 11, 2020)
@@ -24,6 +27,7 @@ Group 3 Tor web browser
 - Introduction
 - Purpose
 - Features
+<<<<<<< HEAD
 - Why Tor?
 
 
@@ -62,3 +66,6 @@ Virtual Reality
 Augmented Reality
 - DAVID MAGTALAS
 - VICTOR LOPEZ
+=======
+- Why Tor?
+>>>>>>> parent of 939f006... Update TASKS.txt
